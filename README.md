@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ESPN is a forum blog focusing on sports. It is inspired by Hacker News. Users can sign up and start a conversation thread or join an existing one. ESPN is build with Rails, Bootstrap (for styling) and Devise (for auth)
 
-Things you may want to cover:
+Date: 16-AUG-2019
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Developer: PJ Mantoss
